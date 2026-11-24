@@ -7,6 +7,8 @@ Python 3.13, standard library only, no network.
 # cat about its human: 154 characters, one line, inside the 200-char
 # gate. Specific complaints (food bowl, laptop keyboard, coffee),
 # deadpan review shape, and the sting lands in the last two words.
+# Revision note: re-read the gate after running; 154 characters,
+# one line, no trailing newline.
 import os
 
 TEXT = (
